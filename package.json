@@ -19,6 +19,7 @@
   "homepage": "https://github.com/dimka90/ERC20_NFT#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
     "hardhat": "^2.22.11"
   }
 }
